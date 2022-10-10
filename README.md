@@ -1,6 +1,6 @@
 # Denoising Masked Autoencoders Are Certifiable Robust Vision Learners
 <p align="center">
-  <img src="figures/pipeline.png", width="640">
+  <img src="assets/pipeline.png", width="640">
 </p>
 
 This repository is the official implementation of “Denoising Masked Autoencoders Are Certifiable Robust Vision Learners”, based on the official implementation of [MAE](https://github.com/facebookresearch/mae) in [PyTorch](https://github.com/pytorch/pytorch).
@@ -42,12 +42,12 @@ The following table provides the pre-trained checkpoints used in the paper:
 The fine-tuning and evaluation instruction is in [FINETUNE.md](FINETUNE.md).
 #### Results on ImageNet
 <p align="left">
-  <img src="figures/imagenet.png", width="640">
+  <img src="assets/imagenet.png", width="640">
 </p>
 
 #### Results on CIFAR-10
 <p align="left">
-  <img src="figures/cifar10.png", width="640">
+  <img src="assets/cifar10.png", width="640">
 </p>
 
 ### License
