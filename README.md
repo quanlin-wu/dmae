@@ -1,9 +1,9 @@
-# Denoising Masked Autoencoders Are Certifiable Robust Vision Learners
+# Denoising Masked Autoencoders Help Robust Classification
 <p align="center">
   <img src="assets/pipeline.png", width="640">
 </p>
 
-This repository is the official implementation of [“Denoising Masked Autoencoders Are Certifiable Robust Vision Learners”](https://arxiv.org/abs/2210.06983), based on the official implementation of [MAE](https://github.com/facebookresearch/mae) in [PyTorch](https://github.com/pytorch/pytorch).
+This repository is the official implementation of [“Denoising Masked Autoencoders Help Robust Classification”](https://arxiv.org/abs/2210.06983), based on the official implementation of [MAE](https://github.com/facebookresearch/mae) in [PyTorch](https://github.com/pytorch/pytorch).
 ```
 @Article{dmae2022,
   author  = {Quanlin Wu and Hang Ye, Yuntian Gu and Huishuai Zhang, Liwei Wang and Di He},
