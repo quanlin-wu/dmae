@@ -1,15 +1,15 @@
-# Denoising Masked Autoencoders Help Robust Classification
+# Denoising Masked Autoencoders Help Robust Classification (ICLR 2023)
 <p align="center">
   <img src="assets/pipeline.png", width="640">
 </p>
 
 This repository is the official implementation of [“Denoising Masked Autoencoders Help Robust Classification”](https://arxiv.org/abs/2210.06983), based on the official implementation of [MAE](https://github.com/facebookresearch/mae) in [PyTorch](https://github.com/pytorch/pytorch).
 ```
-@Article{dmae2022,
-  author  = {Quanlin Wu and Hang Ye, Yuntian Gu and Huishuai Zhang, Liwei Wang and Di He},
-  journal = {arXiv:2210.06983},
-  title   = {Denoising Masked Autoencoders Are Certifiable Robust Vision Learners},
-  year    = {2022},
+@inproceedings{wu2023dmae,
+  title={Denoising Masked Autoencoders Help Robust Classification},
+  author={Wu, QuanLin and Ye, Hang and Gu, Yuntian and Zhang, Huishuai and Wang, Liwei and He, Di},
+  booktitle={The Eleventh International Conference on Learning Representations},
+  year={2023}
 }
 ```
 
